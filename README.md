@@ -1,7 +1,13 @@
 # Algorithms
 
-This is going to be a git repository to practice algorithms from
-the book Grokking Algorithms.
+## Big O Notation
 
-All the content is going to be separated by different branches
-for example 1-BinarySearch
+`log(n)`
+
+## Binary_Search
+
+1. Is a function that it takes a **SORTED** array.
+
+2. If the item is in the array, the previous function returns its position.
+
+3. It is needed to keep track of what part of the array you have to search through.
