@@ -2,7 +2,8 @@
 
 ## Big O Notation
 
-`log(n)`
+Logaritmic time
+`O(log(n))`
 
 ## Binary_Search
 
